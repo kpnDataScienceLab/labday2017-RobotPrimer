@@ -2,7 +2,7 @@
 
 
 
-	<param name="aiml_path" value="/home/robot/ros_robotics_projects_ws/src/ros_aiml/data" />
+	<param name="aiml_path" value="../data" />
 
 	<node name="aiml_server" pkg="ros_aiml" type="aiml_server.py" output="screen">
 	</node>
