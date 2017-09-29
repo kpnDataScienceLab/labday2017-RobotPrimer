@@ -17,7 +17,7 @@ And if we still have time:
 * PyAIML: AIMLinterpreter in Python
 * [ROS Kinetic](http://wiki.ros.org/kinetic/Installation)
 * The sound_play ROS package: text-to-speech package in ROS
-* TensorFlow (0.11.0rc1, not working with TF1.0 see [here](https://github.com/qboticslabs/ros_robotics_projects/issues/4)
+* TensorFlow (0.11.0rc1, not working with TF1.0 see [here](https://github.com/qboticslabs/ros_robotics_projects/issues/4))
 * OpenCV, cv-bridge and cv-camera
 
 
